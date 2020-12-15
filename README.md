@@ -1,2 +1,4 @@
 # TableauNotes
-Widely used types of charts, Dashboard, Storyline
+
+Tableau is widedly used for data visulization and BI.
+
